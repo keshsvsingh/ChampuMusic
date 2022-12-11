@@ -39,7 +39,7 @@ OWNER_ID = list(
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY",472985fb-bb9c-4416-a274-f037a481d4ee)
+HEROKU_API_KEY = getenv("HEROKU_API_KEY","472985fb-bb9c-4416-a274-f037a481d4ee")
 
 # You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -56,7 +56,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL",Https://t.me/about_keshu)
+    "SUPPORT_CHANNEL","Https://t.me/about_keshu")
 )  # Example:- https://t.me/TheShivanshu
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", None
