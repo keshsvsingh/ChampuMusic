@@ -129,7 +129,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 SET_CMDS = getenv("SET_CMDS", False)
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our website (https://replit.com/@shivanshudeo/Champu)
-STRING1 = getenv("STRING_SESSION","BQB7Evhfbt9LLlXrg4r6N5IbXZKBusj_tjKmXKy2i0dh3lxqyU7AW5f3aSnLuhdQrS0tr3Cf6FZ8Ju7zbWvP7xv0NM8IIHWj3NQvlAPUoP6mXDYIp3VYUAEEOOOkbjrEDVLYjltQVrBL516wAgNcVj2qi1k2GIF5IFAVbuNdwjqQXfQFGGkXOYRLpi1Q6UFAVT6ECNv2_XIkvbrLN4H3buLmafO03ETudwn2--Icwb75EPLljgbE37aY5gZGhlZQ0Dn32qfbgMYkoU5EeaYHV-xL-YUDWnzw69L7R6biSp8GfXT_xgwCWQ9Chi_hYj2plaCKPXSLEvovvhfcYnhLFh83AAAAAU2T8mkA")
+STRING1 = getenv("STRING_SESSION","BQBiMZkAXeGVm09BtPjmWKCud5jGMzepmefcGTjOcaCJT_lDcm1igQPRU3znSfe8XfBBA_WceEQ0f1iOZJEEIoPf8BEMYV6Mgw3yx7cVVpjs-8VDtVd6rBnpi54cJRUqxwNi5DOaAAdfrWPioIPaStNplOp-5GlPMKGDeXicc3_9a-qzse1zghKVuaK8qsaqnJzpNKDGua7gzutqKiOZgaCideF90KUjsIBAyBA8FBHfR-Rgbok3lUjG-ogWD9BKwCdP5C7X-j7KLfFEiuczkDTK-yyON8d52rA1Zjr7BGdcQ6x-51Wo9Z6_jcUbKdMNtdgqLixBjGG2pfgqCJu5J_9wLyDa2QAAAAFNk_JpAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
